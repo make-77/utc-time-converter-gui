@@ -1,0 +1,10 @@
+.artifacts/
+.vendor/
+.vendor_pkgs/
+.wheelhouse/
+__pycache__/
+dist/
+build/
+build_updated/
+dist_updated/
+*.spec
